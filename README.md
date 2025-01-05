@@ -1,0 +1,2 @@
+# lang-dictionary
+دیکشنری لغات 
